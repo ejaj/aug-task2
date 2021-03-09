@@ -1,9 +1,8 @@
 ## Installation
 
-- git clone git@github.com:ejaj/tailwind.git
+- git clone git@github.com:ejaj/aug-task2.git
 - cd directory.
-- run composer update command
-- change database name as you want
-- run php artisan migrate command
 - browse http:your-localhost-url/projectname for showing item list
-
+## Unit TEST
+- run: composer update command for unit test.
+- run: ./vendor/bin/phpunit command to check test case.
