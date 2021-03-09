@@ -1,4 +1,7 @@
-## Installation
+# aug-task2
+
+
+## Project setup
 
 - git clone git@github.com:ejaj/aug-task2.git
 - cd directory.
