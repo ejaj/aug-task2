@@ -1,10 +1,13 @@
 {
-    "require-dev": {
-        "phpunit/phpunit": "^7"
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-0": {
+      "UnitTestFiles": ""
     },
-    "autoload": {
-        "psr-0": {
-            "UnitTestFiles": ""
-        }
+    "psr-4": {
+      "classes\\aug\\": "classes/aug/"
     }
+  }
 }

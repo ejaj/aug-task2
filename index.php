@@ -8,9 +8,11 @@
 
 namespace index;
 
+require "vendor/autoload.php";
+
 use classes\aug\Task;
 
-require_once 'include/autoload.php';
+//require_once 'include/autoload.php';
 
 
 $taskObj = new Task();
